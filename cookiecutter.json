@@ -1,0 +1,4 @@
+{
+  "Device_Name" : "",
+  "__project_folder" : "Adafruit_Arduino_{{ cookiecutter.Device_Name }}"
+}
