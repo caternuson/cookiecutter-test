@@ -1,4 +1,5 @@
 {
   "Device_Name" : "",
-  "__project_folder" : "Adafruit_Arduino_{{ cookiecutter.Device_Name }}"
+  "PID" : "",
+  "__project_folder" : "Adafruit_{{ cookiecutter.Device_Name }}"
 }
